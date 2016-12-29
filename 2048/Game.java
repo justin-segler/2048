@@ -7,7 +7,8 @@ import java.util.ArrayList;
 is to swipe tiles in directions so as to combine tiles in order to create the largest
 tile possible. The game is over when all of the spaces on the game board are filled.
 The following game uses System out to generate the game graphics. Simply compiling this Java
-file and running it will start the game. To exit the game, type "exit."
+file and running it will start the game. To manuever the tiles on the gameboard, use W-A-S-D 
+and ENTER to swipeTo exit the game, type "exit."
 
 Created by: Justin Segler
 Date: December 28, 2016
