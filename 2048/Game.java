@@ -44,7 +44,7 @@ public class Game {
 
         //prints game instructions
         System.out.println();
-        System.out.println("USE W-A-S-D TO MOVE TILES");
+        System.out.println("USE W-A-S-D AND ENTER TO MOVE TILES");
         System.out.println("TYPE \'exit\' TO QUIT");
         System.out.println("---------------");
 
