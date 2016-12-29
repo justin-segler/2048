@@ -6,7 +6,9 @@ The following game uses System out to generate the game graphics. Simply compili
 file and running it will start the game. To exit the game, type "exit.
 
 To compile and run the game, run the following commands:
+  \n
   javac Game.java
+  \n
   java Game
   
  Note: The Game is text-based and is run inside a console.
